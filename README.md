@@ -1,2 +1,4 @@
-# Graficadora-de-Funciones
-La "Graficadora de Funciones" es una aplicación desarrollada en Python que ofrece una interfaz gráfica intuitiva para graficar funciones cuadráticas y guardar los gráficos resultantes como imágenes PNG.
+La "Graficadora de Funciones" es una aplicación desarrollada en Python que ofrece una interfaz gráfica intuitiva para graficar funciones cuadráticas y guardar los gráficos resultantes como imágenes PNG. Con esta herramienta, los usuarios pueden visualizar fácilmente las curvas de las funciones cuadráticas con diferentes valores de coeficientes y rangos.
+La aplicación ha sido diseñada con una interfaz amigable, lo que la hace accesible incluso para aquellos con poca experiencia en programación o matemáticas avanzadas. Ofrece una forma rápida y sencilla de explorar y entender las propiedades de las funciones cuadráticas, lo que puede resultar especialmente útil en entornos educativos o de investigación.
+Además de la funcionalidad de graficar funciones, la "Graficadora de Funciones" también permite cargar valores desde un archivo Excel predefinido, lo que facilita el uso de conjuntos de datos previamente preparados. También ofrece la posibilidad de personalizar la imagen de fondo de la ventana principal, lo que permite una experiencia más agradable y personalizada para el usuario.
+
